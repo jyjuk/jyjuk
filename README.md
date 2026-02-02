@@ -30,15 +30,13 @@ Passionate backend developer with hands-on experience in FastAPI, Django, and cl
 
 ---
 
-### 📊 GitHub Stats
+---
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyjuk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+### 📊 GitHub Activity
 
-### 🔥 Streak Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjuk&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyjuk&theme=tokyonight&hide_border=true)
+### 💻 Languages & Contributions
 
-### 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyjuk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-```
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyjuk&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyjuk&theme=tokyonight)
