@@ -6,11 +6,20 @@ Passionate backend developer with hands-on experience in FastAPI, Django, and cl
 
 ### 🛠️ Tech Stack
 
-**Backend:** Python 3.10+, FastAPI, Django, DRF  
-**Databases:** PostgreSQL, Redis, SQLAlchemy (async)  
-**Cloud:** AWS (ECS Fargate, RDS, ElastiCache, S3), Docker  
-**Frontend:** React, TypeScript, Redux Toolkit, Material UI  
-**Tools:** Git, Alembic, Playwright, APScheduler  
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask)](https://skillicons.dev)
+
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite)](https://skillicons.dev)
+
+#### Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,github,git)](https://skillicons.dev)
+
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,redux,materialui)](https://skillicons.dev)
+
+#### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,linux)](https://skillicons.dev)
 
 ### 📌 Featured Projects
 
@@ -31,12 +40,14 @@ Passionate backend developer with hands-on experience in FastAPI, Django, and cl
 ---
 
 ---
+---
 
 ### 📊 GitHub Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyjuk&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyjuk&theme=tokyonight&hide_border=true)](https://github.com/jyjuk)
 
-### 💻 Languages & Contributions
+### 💻 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyjuk&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyjuk&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyjuk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyjuk&layout=compact&theme=tokyonight&hide_border=true)
