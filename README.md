@@ -2,7 +2,7 @@
 <h3 align="center">Python Backend Developer | Lviv, Ukraine</h3>
 
 <p align="center">
-  Passionate backend developer with hands-on experience in FastAPI, Django, and cloud technologies. Recently completed comprehensive internship program (BE-1 to BE-6 levels), building production-ready applications with modern Python stack.
+  Passionate backend developer with hands-on experience in FastAPI, Django, and cloud technologies. Recently completed comprehensive internship program, building production-ready applications with modern Python stack.
 </p>
 
 ---
@@ -110,3 +110,5 @@
 | 🇺🇦 Ukrainian — Native | 🇬🇧 English — Upper-Intermediate (B2) |
 |------------------------|----------------------------------------|
 | 🇵🇱 Polish — Pre-Intermediate (B1) | |
+```
+---
