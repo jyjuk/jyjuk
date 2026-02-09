@@ -60,7 +60,7 @@
   - Form validation (React Hook Form + Yup)
   - Internationalization (EN/UA)
 
-- 🎬 **[Kinorium Scraper](https://github.com/jyjuk/scraper-kinorium)** - Async web scraper for Inpolium Data
+- 🎬 **[Kinorium Scraper](https://github.com/jyjuk/scraper-kinorium)** - Async web scraper
   - Three scraping methods: HTTP, Playwright headless, non-headless
   - FastAPI + SQLAlchemy (async)
   - BeautifulSoup4 + httpx + Playwright
