@@ -86,7 +86,7 @@
 - **Tech:** FastAPI, SQLAlchemy async, PostgreSQL, Redis, Docker, AWS
 
 ### 🕷️ **[Kinorium Web Scraper](https://github.com/jyjuk/scraper-kinorium)** 
-**Technical assignment** | Inpolium Data
+**Technical assignment**
 - Async web scraper with **3 parsing methods:**
   - HTTP (fastest) - httpx async
   - Playwright headless (JS rendering)
